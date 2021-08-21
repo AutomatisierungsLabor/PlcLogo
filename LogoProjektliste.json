@@ -1,0 +1,56 @@
+﻿{
+    "PlcProjektliste": [
+        {
+            "Bezeichnung": "Linearachse",
+            "Kommentar": "Übungsplatte",
+            "SoftwareVersion": "Logo8",
+            "OrdnerProjekt": "PLC_KOP_Linearachse",
+            "Sprache": "Kop",
+            "Kategorie": "Plc",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "Motorschaltungen",
+            "Kommentar": "Übungsplatte",
+            "SoftwareVersion": "Logo8",
+            "OrdnerProjekt": "PLC_FUP_Motorschaltungen",
+            "Sprache": "Fup",
+            "Kategorie": "Plc",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "Linearachse",
+            "Kommentar": "Übungsplatte",
+            "SoftwareVersion": "Logo8",
+            "OrdnerProjekt": "PLC_FUP_Linearachse",
+            "Sprache": "Fup",
+            "Kategorie": "Plc",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "Linearachse",
+            "Kommentar": "Übungsplatte",
+            "SoftwareVersion": "Logo8",
+            "OrdnerProjekt": "BUG_FUP_Linearachse",
+            "Sprache": "Fup",
+            "Kategorie": "Bug",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten"
+            ]
+        }
+    ]
+}
