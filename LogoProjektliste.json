@@ -1,10 +1,23 @@
 ﻿{
     "PlcProjektliste": [
         {
-            "Bezeichnung": "Linearachse",
-            "Kommentar": "Übungsplatte",
+            "Bezeichnung": "Übungsplatte",
+            "Kommentar": "Getriebemotor",
             "SoftwareVersion": "Logo8",
-            "OrdnerProjekt": "PLC_KOP_Linearachse",
+            "OrdnerPlc": "PLC_FUP_Motorschaltungen",
+            "Sprache": "Fup",
+            "Kategorie": "Plc",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "Übungsplatte",
+            "Kommentar": "Linearachse",
+            "SoftwareVersion": "Logo8",
+            "OrdnerPlc": "PLC_KOP_Linearachse",
             "Sprache": "Kop",
             "Kategorie": "Plc",
             "Jobs": [
@@ -14,10 +27,10 @@
             ]
         },
         {
-            "Bezeichnung": "Motorschaltungen",
-            "Kommentar": "Übungsplatte",
+            "Bezeichnung": "Übungsplatte",
+            "Kommentar": "Linearachse",
             "SoftwareVersion": "Logo8",
-            "OrdnerProjekt": "PLC_FUP_Motorschaltungen",
+            "OrdnerPlc": "PLC_FUP_Linearachse",
             "Sprache": "Fup",
             "Kategorie": "Plc",
             "Jobs": [
@@ -30,20 +43,7 @@
             "Bezeichnung": "Linearachse",
             "Kommentar": "Übungsplatte",
             "SoftwareVersion": "Logo8",
-            "OrdnerProjekt": "PLC_FUP_Linearachse",
-            "Sprache": "Fup",
-            "Kategorie": "Plc",
-            "Jobs": [
-                "SorceOrdnerErstellen",
-                "ProjektKopieren",
-                "CmdDateiProjektStarten"
-            ]
-        },
-        {
-            "Bezeichnung": "Linearachse",
-            "Kommentar": "Übungsplatte",
-            "SoftwareVersion": "Logo8",
-            "OrdnerProjekt": "BUG_FUP_Linearachse",
+            "OrdnerPlc": "BUG_FUP_Linearachse",
             "Sprache": "Fup",
             "Kategorie": "Bug",
             "Jobs": [
