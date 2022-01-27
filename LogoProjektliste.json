@@ -8,9 +8,8 @@
             "Sprache": "Fup",
             "Kategorie": "Plc",
             "Jobs": [
-                "SorceOrdnerErstellen",
                 "ProjektKopieren",
-                "CmdDateiProjektStarten"
+                "ProjektStarten"
             ]
         },
         {
@@ -21,9 +20,8 @@
             "Sprache": "Kop",
             "Kategorie": "Plc",
             "Jobs": [
-                "SorceOrdnerErstellen",
                 "ProjektKopieren",
-                "CmdDateiProjektStarten"
+                "ProjektStarten"
             ]
         },
         {
@@ -34,9 +32,8 @@
             "Sprache": "Fup",
             "Kategorie": "Plc",
             "Jobs": [
-                "SorceOrdnerErstellen",
                 "ProjektKopieren",
-                "CmdDateiProjektStarten"
+                "ProjektStarten"
             ]
         },
         {
@@ -47,9 +44,8 @@
             "Sprache": "Fup",
             "Kategorie": "Bug",
             "Jobs": [
-                "SorceOrdnerErstellen",
                 "ProjektKopieren",
-                "CmdDateiProjektStarten"
+                "ProjektStarten"
             ]
         }
     ]
