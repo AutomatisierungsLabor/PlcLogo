@@ -10,6 +10,29 @@
             "Jobs": [
                 "ProjektKopieren",
                 "ProjektStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "5",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - Head",
+                    "WasAnzeigen":"NurInhalt"
+                },
+                {
+                    "BausteinId": "9",
+                    "VorbereitungId": "600",
+                    "Test": "4.2",
+                    "Kommentar": "Logo8 - Linearachse - Hardware",
+                    "WasAnzeigen":"H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "8",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - </body>",
+                    "WasAnzeigen":"NurInhalt"
+                }
             ]
         },
         {
@@ -22,6 +45,29 @@
             "Jobs": [
                 "ProjektKopieren",
                 "ProjektStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "5",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - Head",
+                    "WasAnzeigen":"NurInhalt"
+                },
+                {
+                    "BausteinId": "9",
+                    "VorbereitungId": "600",
+                    "Test": "4.2",
+                    "Kommentar": "Logo8 - Linearachse - Hardware",
+                    "WasAnzeigen":"H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "8",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - </body>",
+                    "WasAnzeigen":"NurInhalt"
+                }
             ]
         },
         {
@@ -34,6 +80,29 @@
             "Jobs": [
                 "ProjektKopieren",
                 "ProjektStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "5",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - Head",
+                    "WasAnzeigen":"NurInhalt"
+                },
+                {
+                    "BausteinId": "9",
+                    "VorbereitungId": "600",
+                    "Test": "4.2",
+                    "Kommentar": "Logo8 - Linearachse - Hardware",
+                    "WasAnzeigen":"H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "8",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - </body>",
+                    "WasAnzeigen":"NurInhalt"
+                }
             ]
         },
         {
@@ -46,6 +115,29 @@
             "Jobs": [
                 "ProjektKopieren",
                 "ProjektStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "5",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - Head",
+                    "WasAnzeigen":"NurInhalt"
+                },
+                {
+                    "BausteinId": "9",
+                    "VorbereitungId": "600",
+                    "Test": "4.2",
+                    "Kommentar": "Logo8 - Linearachse - Hardware",
+                    "WasAnzeigen":"H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "8",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - </body>",
+                    "WasAnzeigen":"NurInhalt"
+                }
             ]
         }
     ]
