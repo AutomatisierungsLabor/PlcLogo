@@ -60,6 +60,8 @@
                 },
                 {
                     "BausteinId": "9",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "600",
                     "Test": "4.2",
                     "Kommentar": "Logo8 - Linearachse - Hardware",
@@ -67,6 +69,8 @@
                 },
                 {
                     "BausteinId": "8",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - </body>",
@@ -97,6 +101,8 @@
                 },
                 {
                     "BausteinId": "9",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "600",
                     "Test": "4.2",
                     "Kommentar": "Logo8 - Linearachse - Hardware",
@@ -104,6 +110,8 @@
                 },
                 {
                     "BausteinId": "8",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - </body>",
@@ -134,6 +142,8 @@
                 },
                 {
                     "BausteinId": "9",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "600",
                     "Test": "4.2",
                     "Kommentar": "Logo8 - Linearachse - Hardware",
@@ -141,6 +151,8 @@
                 },
                 {
                     "BausteinId": "8",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - </body>",
