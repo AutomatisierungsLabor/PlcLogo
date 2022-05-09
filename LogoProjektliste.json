@@ -14,24 +14,26 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
-                    "WasAnzeigen":"NurInhalt"
+                    "WasAnzeigen": "NurInhalt"
                 },
                 {
                     "BausteinId": "9",
                     "VorbereitungId": "600",
                     "Test": "4.2",
                     "Kommentar": "Logo8 - Linearachse - Hardware",
-                    "WasAnzeigen":"H1H2Inhalt"
+                    "WasAnzeigen": "H1H2Inhalt"
                 },
                 {
                     "BausteinId": "8",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - </body>",
-                    "WasAnzeigen":"NurInhalt"
+                    "WasAnzeigen": "NurInhalt"
                 }
             ]
         },
@@ -49,24 +51,26 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
-                    "WasAnzeigen":"NurInhalt"
+                    "WasAnzeigen": "NurInhalt"
                 },
                 {
                     "BausteinId": "9",
                     "VorbereitungId": "600",
                     "Test": "4.2",
                     "Kommentar": "Logo8 - Linearachse - Hardware",
-                    "WasAnzeigen":"H1H2Inhalt"
+                    "WasAnzeigen": "H1H2Inhalt"
                 },
                 {
                     "BausteinId": "8",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - </body>",
-                    "WasAnzeigen":"NurInhalt"
+                    "WasAnzeigen": "NurInhalt"
                 }
             ]
         },
@@ -84,24 +88,26 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
-                    "WasAnzeigen":"NurInhalt"
+                    "WasAnzeigen": "NurInhalt"
                 },
                 {
                     "BausteinId": "9",
                     "VorbereitungId": "600",
                     "Test": "4.2",
                     "Kommentar": "Logo8 - Linearachse - Hardware",
-                    "WasAnzeigen":"H1H2Inhalt"
+                    "WasAnzeigen": "H1H2Inhalt"
                 },
                 {
                     "BausteinId": "8",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - </body>",
-                    "WasAnzeigen":"NurInhalt"
+                    "WasAnzeigen": "NurInhalt"
                 }
             ]
         },
@@ -119,24 +125,26 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
-                    "WasAnzeigen":"NurInhalt"
+                    "WasAnzeigen": "NurInhalt"
                 },
                 {
                     "BausteinId": "9",
                     "VorbereitungId": "600",
                     "Test": "4.2",
                     "Kommentar": "Logo8 - Linearachse - Hardware",
-                    "WasAnzeigen":"H1H2Inhalt"
+                    "WasAnzeigen": "H1H2Inhalt"
                 },
                 {
                     "BausteinId": "8",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - </body>",
-                    "WasAnzeigen":"NurInhalt"
+                    "WasAnzeigen": "NurInhalt"
                 }
             ]
         }
