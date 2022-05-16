@@ -3,6 +3,7 @@
         {
             "Bezeichnung": "Übungsplatte",
             "Kommentar": "Getriebemotor",
+            "ProjektDatei":"Projekt.lnp",
             "SoftwareVersion": "Logo8",
             "OrdnerPlc": "PLC_FUP_Motorschaltungen",
             "Sprache": "Fup",
@@ -44,6 +45,7 @@
         {
             "Bezeichnung": "Übungsplatte",
             "Kommentar": "Linearachse",
+            "ProjektDatei":"Projekt.lld",
             "SoftwareVersion": "Logo8",
             "OrdnerPlc": "PLC_KOP_Linearachse",
             "Sprache": "Kop",
@@ -85,6 +87,7 @@
         {
             "Bezeichnung": "Übungsplatte",
             "Kommentar": "Linearachse",
+            "ProjektDatei":"Projekt.lnp",
             "SoftwareVersion": "Logo8",
             "OrdnerPlc": "PLC_FUP_Linearachse",
             "Sprache": "Fup",
@@ -126,6 +129,7 @@
         {
             "Bezeichnung": "Linearachse",
             "Kommentar": "Übungsplatte",
+            "ProjektDatei":"Projekt.lnp",
             "SoftwareVersion": "Logo8",
             "OrdnerPlc": "BUG_FUP_Linearachse",
             "Sprache": "Fup",
