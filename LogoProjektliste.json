@@ -12,7 +12,7 @@
                 "ProjektKopieren",
                 "ProjektStarten"
             ],
-            "Textbausteine": [
+            "ListeTextbausteinEintrag": [
                 {
                     "BausteinId": "5",
                     "PrefixH1": "",
@@ -54,7 +54,7 @@
                 "ProjektKopieren",
                 "ProjektStarten"
             ],
-            "Textbausteine": [
+            "ListeTextbausteinEintrag": [
                 {
                     "BausteinId": "5",
                     "PrefixH1": "",
@@ -96,7 +96,7 @@
                 "ProjektKopieren",
                 "ProjektStarten"
             ],
-            "Textbausteine": [
+            "ListeTextbausteinEintrag": [
                 {
                     "BausteinId": "5",
                     "PrefixH1": "",
@@ -138,7 +138,7 @@
                 "ProjektKopieren",
                 "ProjektStarten"
             ],
-            "Textbausteine": [
+            "ListeTextbausteinEintrag": [
                 {
                     "BausteinId": "5",
                     "PrefixH1": "",
