@@ -1,3 +1,3 @@
-h:
-cd h:\PlcLogo
+c:
+cd %USERPROFILE%\PlcLogo
 start Projekt.lld
